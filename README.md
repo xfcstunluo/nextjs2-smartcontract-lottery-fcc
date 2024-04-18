@@ -48,4 +48,8 @@ module.exports = {
 3.导出后将out文件夹上传到ipfs上，设置固定-固定在本地节点-导出CID
 ipfs://CID
 可以在ipfs服务器上运行
+
+在fleek.co上执行
+1.需要先把文件上传到github
+2.按要求操作
 ```
